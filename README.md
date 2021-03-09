@@ -4,7 +4,6 @@
 I'm a cybersecurity student, and this is a place for me to keep my programming studies and personal projects. 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?j4nedoe=<J4NEDOE>&dracula=<DRACULA>" />
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
