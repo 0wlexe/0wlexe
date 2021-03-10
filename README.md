@@ -3,7 +3,7 @@
 
 I'm a cybersecurity student, and this is a place for me to keep my programming studies and personal projects. 
 
-### I'm currently studying:
+#### I'm currently studying:
 <li> Python and Shell Script. </li>
 
 <!--
