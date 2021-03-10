@@ -3,7 +3,7 @@
 
 I'm a cybersecurity student, and this is a place for me to keep my programming studies and personal projects. 
 
- I'm currently working on the <img src="https://github.com/j4nedoe/python-automation">automation of networking processes</a> with Python, and plan on update some <img src="https://github.com/j4nedoe/shell-script">Bash</a> scripts. 
+ I'm currently working on the [automation of networking processes](https://github.com/j4nedoe/python-automation) with Python, and plan to update some [https://github.com/j4nedoe/shell-script](Bash) scripts. 
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
