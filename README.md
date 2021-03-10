@@ -3,7 +3,7 @@
 
 I'm a cybersecurity student, and this is a place for me to keep my programming studies and personal projects. 
 
-#### I'm currently studying: Python and Shell Script. 
+ 
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
