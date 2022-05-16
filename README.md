@@ -1,7 +1,7 @@
 
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I work with cybersecurity and I plan on updating this github page soon. 🤫
+I work with cybersecurity and plan on updating this github page soon.. 🤫
 
 [some python scripts for the automation of networking processes](https://github.com/j4nedoe/python-automation).
 
