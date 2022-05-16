@@ -1,9 +1,9 @@
 
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I work with cybersecurity, and this is a place for me to keep some of my programming studies and personal projects. 
+I work with cybersecurity and I plan on updating this github page soon. 🤫
 
- I have some [automation of networking processes](https://github.com/j4nedoe/python-automation) with Python, and plan to update some [Bash](https://github.com/j4nedoe/shell-script) scripts in the future. 
+ I have some [automation of networking processes](https://github.com/j4nedoe/python-automation) with Python.
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
