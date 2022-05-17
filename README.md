@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=24&color=F75244&lines=Hi%2C+there!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&lines=Hi%2C+there!)](https://git.io/typing-svg)
 
 I work with cybersecurity and plan on updating this github page soon.. 🤫
 
