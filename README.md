@@ -1,5 +1,7 @@
 
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=F70707&lines=Hi%2C+there!+)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I work with cybersecurity and plan on updating this github page soon.. 🤫
 
