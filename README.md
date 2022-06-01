@@ -1,5 +1,5 @@
 
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+# Hi, there! 
 
 I work with cybersecurity and plan on updating this github page soon.. 🤫
 
