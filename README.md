@@ -2,7 +2,8 @@
 
 ```
 function test() {
-  console.log("Hi there, stranger!! (or not??) \n I currently work with cybersecutiry, nice to see you around!");
+  console.log("Hi there, stranger!! (or not??) \n 
+  I currently work with cybersecutiry, nice to see you around!");
 }
 ```
 
