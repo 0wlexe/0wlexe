@@ -1,12 +1,10 @@
 
 
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
 ```
-
+function test() {
+  console.log("Hi there, stranger!! (or not??) \n I currently work with cybersecutiry, nice to see you around!");
+}
+```
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
