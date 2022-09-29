@@ -6,7 +6,7 @@ def function_welcome():
 function_welcome()
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?j4nedoe=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?j4nedoe=j4nedoe&theme=tokyonight)
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
