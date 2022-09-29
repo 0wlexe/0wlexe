@@ -3,7 +3,7 @@
 ```
 function welcome() {
   console.log("Hi there, stranger!! (or not??) \n 
-  I currently work with cybersecutiry, nice to see you around! :^) ");
+  I currently work with cybersecutiry, nice to see you around! 😉 ");
 }
 ```
 
