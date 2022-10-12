@@ -6,6 +6,25 @@ def function_welcome():
 function_welcome()
 ```
 
+```python
+
+  /   "I have come to believe that this is a  \
+  |   mighty continent which was hitherto     |
+  |   unknown."                               |
+  \   -- Christopher Columbus                 /
+   ---------------------------------
+        \     /\--/\
+         \  {((@)(@))}                                                                   
+             \..< ../                                                                    
+            / UWUW|;;\                                                                   
+            | WUWU|;;;|                                                                  
+            | UWUWU\;;|                                                                  
+             \ UWUWU\;/                                                                  
+  -~-~-~-~-~-(((-~-)))~-~                                                                
+  -~-~_,-~-~-~-~-~-~-~-~-  
+
+function_welcome()
+```
 
 
 <!--
