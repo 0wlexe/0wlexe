@@ -7,7 +7,7 @@ function_welcome()
 ```
 
 ```python
-<p align="right">
+
 
   /   "I have come to believe that this is a  \
   |   mighty continent which was hitherto     |
@@ -23,7 +23,7 @@ function_welcome()
              \ UWUWU\;/                                                                  
   -~-~-~-~-~-(((-~-)))~-~                                                                
   -~-~_,-~-~-~-~-~-~-~-~-  
-</p>
+
 
 ```
 
