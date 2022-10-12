@@ -6,7 +6,6 @@ def function_welcome():
 function_welcome()
 ```
 
-![alt text](https://i.ibb.co/pXx4WRP/200.png)
 
 
 <!--
