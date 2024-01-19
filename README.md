@@ -1,7 +1,7 @@
 
 ```python
 def function_welcome():
-  print("Hi there, stranger!! (or not??) \n I currently work with cybersecutiry, nice to see you around! 😉 ")
+  print("Hi there, stranger!! (or not??) \n Nice to see you around! 😉 ")
   
 function_welcome()
 ```
