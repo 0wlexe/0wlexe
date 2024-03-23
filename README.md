@@ -20,7 +20,7 @@ Some intersting facts about me:
 
 **Programming languages I plan on getting expertise:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,js,css,go,php,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,js,go,php,c)](https://skillicons.dev)
 
 
 
