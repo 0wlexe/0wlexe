@@ -14,7 +14,7 @@ I'm Bea - a Cybersecurity Engineer. Here's some intersting facts about me:
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,github,kali,bash,python,gcp,visualstudio)](https://skillicons.dev)
 
 
-Fell free to contact me on social media!👋
+
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
