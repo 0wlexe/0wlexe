@@ -11,7 +11,9 @@ Some intersting facts about me:
 - I am graduated in Cybersecurity and Post-graduated in Computer Forensics
 - I’m really passionate about Cyber Threats, and Malware Analysis
 - I really like birds!!
-- Sometimes I write articles related to threat analysis which can be accessed on my blog ['11B-X-1371'](https://0wlexe.github.io/) and Medium page ['Lithium Malware'](https://litio.medium.com/). 
+- Sometimes I write articles related to threat analysis which can be accessed on:
+    - My blog: ['11B-X-1371'](https://0wlexe.github.io/)
+    - Medium page: ['Lithium Malware'](https://litio.medium.com/) 
 
 **Some of the technologies I'm currently working with:**
 
