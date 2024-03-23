@@ -13,7 +13,7 @@ Some intersting facts about me:
 - I really like birds!!
 - Sometimes I write articles related to threat analysis which can be accessed on my blog ['11B-X-1371'](https://0wlexe.github.io/) or on my Medium page ['Lithium Malware'](https://litio.medium.com/). 
 
-**Technologies I'm currently working with:**
+**Some of the technologies I'm currently working with:**
 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,github,kali,gcp,visualstudio)](https://skillicons.dev)
 
