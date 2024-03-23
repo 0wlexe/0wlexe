@@ -5,9 +5,9 @@
   <summary>Click for some interesting facts about me 👈🏻</summary>
   <pre>
     > Call me Bea (Bee-ah, sounds quite like 'Bia') 👀
-    > Graduated in Cybersecurity and Post-graduated in Computer Forensics
-    > I have expertise on threat actors and the Mitre Att&ck Framework
-    > I play around with Malware
+    > Graduated in Cybersecurity and post-graduated in Computer Forensics
+    > I have expertise on threat actors and the Mitre Att&ck framework
+    > I play around with malware analysis
     > I really like birds!! </pre>
 </details>
 
