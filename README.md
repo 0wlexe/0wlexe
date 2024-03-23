@@ -15,13 +15,7 @@ Some intersting facts about me:
 
 **Some of the technologies I'm currently working with:**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,github,kali,gcp,visualstudio)](https://skillicons.dev)
-
-
-**Programming languages I plan on getting expertise:**
-
-[![My Skills](https://skillicons.dev/icons?i=python,bash,js,go,php,c)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,github,kali,bash,python,gcp,visualstudio)](https://skillicons.dev)
 
 
 Fell free to contact me on social media!
