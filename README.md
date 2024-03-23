@@ -8,8 +8,7 @@
     > Graduated in Cybersecurity and Post-graduated in Computer Forensics
     > I have expertise on threat actors and the Mitre Att&ck Framework
     > I play around with Malware
-    > I really like birds!!
-  </pre>
+    > I really like birds!! </pre>
 </details>
 
 ### Tech Stack
