@@ -1,10 +1,8 @@
 
 
 ### Hello, World! 😉
-I'm Bea - a Cybersecurity Engineer.
-
-Some intersting facts about me:
-- I am graduated in Cybersecurity and Post-graduated in Computer Forensics
+I'm Bea - a Cybersecurity Engineer. Here's some intersting facts about me:
+- Graduated in Cybersecurity and Post-graduated in Computer Forensics
 - I’m really passionate about Cyber Threats, and Malware Analysis
 - I really like birds!!
 - Sometimes I write articles related to threat analysis which can be accessed on:
