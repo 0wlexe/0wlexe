@@ -13,7 +13,7 @@
 
 ### Tech Stack
 
-- Lang & Tools: Linux, AWS, Python, Shell/Bash
+- Lang & Tools: Linux, AWS, Python, Shell/Bash, Github
 - Interests: Golang, C, Ruby
 - Favorite Security Tools: Wireshark, DIE, IDA, PEstudio, Process Hacker, Fiddler
 
