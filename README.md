@@ -1,11 +1,7 @@
 
 
-### Hi there 👋
-
-```python
-print("Hello, World! 😉\n I'm Bea - a cybersecurity engineer.")
-
-```
+### Hello, World! 😉
+I'm Bea - a Cybersecurity Engineer.
 
 Some intersting facts about me:
 - I am graduated in Cybersecurity and Post-graduated in Computer Forensics
@@ -20,7 +16,7 @@ Some intersting facts about me:
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,github,kali,bash,python,gcp,visualstudio)](https://skillicons.dev)
 
 
-Fell free to contact me on social media!
+Fell free to contact me on social media!👋
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
