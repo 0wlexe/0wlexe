@@ -1,11 +1,24 @@
 
+
+### Hi there 👋
+
 ```python
-def function_welcome():
-  print("Hi there, stranger!! (or not??) \n Nice to see you around! 😉 ")
-  
-function_welcome()
+print("Hello, World! 😉\n I'm Bea - a cybersecurity engineer.")
+
 ```
 
+Some intersting facts about me:
+- I am graduated in Cybersecurity and Post-graduated in Computer Forensics
+- I’m really passionate about Cyber Threats, and Malware Analysis
+- I really like birds!!
+- Sometimes I write articles related to threat analysis which can be accessed on my blog ['11B-X-1371'](https://0wlexe.github.io/) or on my Medium page ['Lithium Malware'](https://litio.medium.com/). 
+
+**Some of the programming languages I plan on getting expertise:**
+
+[![My Skills](https://skillicons.dev/icons?i=python,bash,js,css,go,php,c)](https://skillicons.dev)
+
+
+Fell free to contact me on social media!
 
 <!--
 **j4nedoe/j4nedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
