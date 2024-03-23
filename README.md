@@ -15,7 +15,7 @@
 
 - Lang & Tools: Linux, AWS, Python, Shell/Bash
 - Interests: Golang, C, Ruby
-- Security Tools: Wireshark, DIE, IDA, PEstudio, Process Hacker
+- Favorite Security Tools: Wireshark, DIE, IDA, PEstudio, Process Hacker, Fiddler
 
 
 
