@@ -6,7 +6,7 @@
   <pre>
     > Call me Bea (Bee-ah, sounds quite like 'Bia') 👀
     > Graduated in Cybersecurity and post-graduated in Computer Forensics
-    > I have expertise on threat actors and the Mitre Att&ck framework
+    > I have expertise on threat hunting and the Mitre Att&ck framework
     > I play around with malware analysis
     > I really like birds!! </pre>
 </details>
